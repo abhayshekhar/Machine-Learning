@@ -9,9 +9,7 @@ Install sklearn: pip install sklearn
 
 Install scikit-learn:pip install scikit-learn
 
-Install matplotlib:git clone git://github.com/matplotlib/matplotlib.git
-cd matplotlib
-python -mpip install 
+Install matplotlib:pip install matplotlib
 
 Test installation by opening a python interpreter and importing sklearn:
 
