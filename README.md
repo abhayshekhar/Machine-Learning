@@ -7,6 +7,8 @@ Install scipy: pip install scipy
 
 Install sklearn: pip install sklearn
 
+Install scikit-learn:pip install scikit-learn
+
 Test installation by opening a python interpreter and importing sklearn:
 
 
